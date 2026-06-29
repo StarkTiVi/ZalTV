@@ -1,46 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie" content-type="movie",Agak Laen Menyala Pantiku
+#EXTINF:-1 group-title="Movie 2026",Agak Laen Menyala Pantiku
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Agak%20Laen%20Menyala%20Pantiku%20(2025).mp4
 
-#EXTINF:-1 group-title="Movie" content-type="movie",Air Mata Buaya
+#EXTINF:-1 group-title="Movie 2026",Air Mata Buaya
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Air%20Mata%20Buaya%20(2026).mp4
 
-#EXTINF:-1, Seni Memahami Kekasih
+#EXTINF:-1 group-title="Movie 2026",Seni Memahami Kekasih
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Seni%20Memahami%20Kekasih%20(2024).mp4
 
-#EXTINF:-1, Sadali
+#EXTINF:-1 group-title="Movie 2026",Sadali
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Sadali%20(2026).mp4
 
-#EXTINF:-1, Kafir : Gerbang Sukma
+#EXTINF:-1 group-title="Movie 2026",Kafir : Gerbang Sukma
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Kafir%20Gerbang%20Sukma%20(2026).mp4
 
-#EXTINF:-1, GOAT Pandemonium Ge On
+#EXTINF:-1 group-title="Movie 2026",GOAT Pandemonium Ge On
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/GOAT%20Pandemonium%20Ge%20on%20(2026).mp4
 
 #EXTINF:-1, The Wrecking Crew
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/The%20Wrecking%20Crew%20(2026).mkv
 
-#EXTINF:-1 group-title="Series" content-type="2",Spider-Noir S01 E01
+#EXTINF:-1 group-title="Spider-Noir",S01E01
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E01%20Step%20Into%20My%20Office.mkv
 
-#EXTINF:-1 group-title="Series" content-type="2",Spider-Noir S01 E02
+#EXTINF:-1 group-title="Spider-Noir",S01E02
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E02%20Tread%20Lightly.mkv
 
-#EXTINF:-1, Spider-Noir : S01E3
+#EXTINF:-1 group-title="Spider-Noir",S01E03
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E03%20Double%20Cross.mkv
 
-#EXTINF:-1, Spider-Noir : S01E04
+#EXTINF:-1 group-title="Spider-Noir",S01E04
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E04%20A%20Mistake%20I'll%20Never%20Make%20Again.mkv
 
-#EXTINF:-1, Spider-Noir : S01E05
+#EXTINF:-1 group-title="Spider-Noir",S01E05
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E05%20Betrayal.mkv
 
-#EXTINF:-1, Spider-Noir : S01E06
+#EXTINF:-1 group-title="Spider-Noir",S01E06
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E06%20Nightmare%20on%20a%20Gurney.mkv
 
-#EXTINF:-1, Spider-Noir : S01E07
+#EXTINF:-1 group-title="Spider-Noir",S01E07
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E07%20Nobodys%20Hero.mkv
 
-#EXTINF:-1, Spider-Noir : S01E08
+#EXTINF:-1 group-title="Spider-Noir",S01E08
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Spider-Noir%20S01/S01E08%20The%20Man%20in%20the%20Mask.mkv
