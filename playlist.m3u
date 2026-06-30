@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live TV",RCTI
-rtsp://cdn.mivo.tv/mivotvjkt/rcti2
-#EXTINF:-1 group-title="Live TV",GTV
-https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
 #EXTINF:-1 group-title="Movie 2026",Adili Idola : Fedi Nuril
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2026/Adili%20Idola%20Celebrity%20Roast%3A%20Fedi%20Nuril%20(2026).mp4
 #EXTINF:-1 group-title="Movie 2026",Ahlan Singapore
@@ -118,7 +114,7 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Jabang%20Mayit%20(2025).mp
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Jalan%20Pulang%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Jangan Panggil Mama Kafir
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Jangan%20Panggil%20Mama%20Kafir%20(2025).mp4
-#EXTINF:-1 group-title="Movie 2025",janur Ireng
+#EXTINF:-1 group-title="Movie 2025",Janur Ireng
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Janur%20Ireng%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Jembatan Shiratal Mustaqim
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Jembatan%20Shiratal%20Mustaqim%20(2025).mp4
@@ -156,6 +152,8 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Leak%202%20(2025).mp4
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Lebih%20Dari%20Selamanya%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Legenda Malin Kundang
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Legenda%20Kelam%20Malin%20Kundang%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Lintrik : Sosok Ketiga
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sosok%20Ketiga%20Lintrik%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Love Therapy
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Love%20Therapy%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Lupa Daratan
@@ -178,26 +176,132 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Mertua%20Ngeri%20Kali%20(2
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Misteri%20Rumah%20Darah%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",Modual Nekat
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Modual%20Nekad%20(2025).mp4
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
-#EXTINF:-1 group-title="Movie 2025",
+#EXTINF:-1 group-title="Movie 2025",Narik Sukmo
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Narik%20Sukmo%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Nia
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Nia%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Norma : Antara Mertua & Menantu
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Norma%20Antara%20Mertua%20dan%20Menantu%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Ozora : Penganiayaan Brutal Penguasa Jaksel
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Ozora%20Penganiayaan%20Brutal%20Penguasa%20Jaksel%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pabrik Gula
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pabrik%20Gula%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pamali : Tumbal
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pamali%20Tumbal%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Panggil Aku Ayah
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Panggil%20Aku%20Ayah%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Panggilan Dari Kubur
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Panggilan%20Dari%20Kubur%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pangku
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pangku%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Panji Tengkorak
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Panji%20Tengkorak%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Paris in Bali
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Paris%20In%20Bali%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pasar Setan
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pasar%20Setan%20(2024).mp4
+#EXTINF:-1 group-title="Movie 2025",Patah Hati Yang Kupilih
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Patah%20Hati%20Yang%20Kupilih%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pembantaian Dukun Santet
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pembantaian%20Dukun%20Santet%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pencarian Terakhir
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pencarian%20Terakhir%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pengantin Iblis
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pengantin%20Iblis%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pengantin Setan
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pengantin%20Setan%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pengepungan di Bukit Duri
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pengepungan%20di%20Bukit%20Duri%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pengin Hijrah
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pengin%20Hijrah%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Penjagal Iblis : Dosa Turunan
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Penjagal%20Iblis%20Dosa%20Turunan%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Perang Kota
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Perang%20Kota%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Perayaan Mati Rasa
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Perayaan%20Mati%20Rasa.mp4
+#EXTINF:-1 group-title="Movie 2025",Pernikahan Arwah
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pernikahan%20Arwah%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pesugihan Sate Gagak
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pesugihan%20Sate%20Gagak%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Petaka Gunung Gede
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Petaka%20Gunung%20Gede%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pintu-Pintu Surga
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pintu%20Pintu%20Surga%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Pulau Hantu
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pulau%20Hantu%20(2024).mp4
+#EXTINF:-1 group-title="Movie 2025",Pulung Gantung
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Pulung%20Gantung%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Qodrat 2
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Qodrat%202%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Qorin 2
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Qorin%202%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Rahasia Rasa
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Rahasia%20Rasa%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Rego Nyowo
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Rego%20Nyowo%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Ruang Rahasia Ibu
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Ruang%20Rahasia%20Ibu%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Rumah Teteh
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Rumah%20Teteh%20Story%20of%20Helena%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Rumah Untuk Alie
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Rumah%20Untuk%20Alie%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sampai Jumpa Selamat Tinggal
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sampai%20Jumpa%20Selamat%20Tinggal%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sampai Titik Terakhirmu
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sampai%20Titik%20Terakhirmu%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sarung Untuk Bapak
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sarung%20Untuk%20Bapak%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sayap-Sayap Patah 2
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sayap%20Sayap%20Patah%202%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sebelum 7 Hari
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sebelum%207%20Hari%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Selepas Tahlil
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Selepas%20Tahlil%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Semusim Setelah Kemarau
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Semusim%20Setelah%20Kemarau%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Seni Memahami Kekasih
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Seni%20Memahami%20Kekasih%20(2024).mp4
+#EXTINF:-1 group-title="Movie 2025",Setetes Embun Cinta Niyala
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Setetes%20Embun%20Cinta%20Niyala%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Shutter
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Shutter%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Si Paling Aktor
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Si%20Paling%20Aktor%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Siapa Dia
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Siapa%20Dia%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sihir Pelakor
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sihir%20Pelakor%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Singsot
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Singsot%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sore : Istri Dari Masa Depan
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sore%20Istri%20Dari%20Masa%20Depan%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Sukma
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Sukma%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Surga di Telapak Kaki Bapak
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Surga%20Di%20Telapak%20Kaki%20Bapak%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Tabayyun
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Tabayyun%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Tak Ingin Usai Disini
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Tak%20Ingin%20Usai%20Di%20Sini%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Tenung
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Tenung%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",The Most Beautiful Girl in The World
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/The%20Most%20Beautiful%20Girl%20In%20The%20World%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Timur
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Timur%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Tinggal Meninggal
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Tinggal%20Meninggal%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Tukar Takdir
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Tukar%20Takdir%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Urban Legend : Sumiati
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Urban%20Legend%20Sumiati%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Utusan Iblis
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Utusan%20Iblis%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Waktu Maghrib 2
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Waktu%20Maghrib%202%20(2025).mp4
+#EXTINF:-1 group-title="Movie 2025",Warkop DKI Kartun
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/2025/Warkop%20DKI%20Kartun%20(2025).mp4
 #EXTINF:-1 group-title="Movie 2025",
 #EXTINF:-1 group-title="Movie 2025",
 #EXTINF:-1 group-title="Movie 2025",
