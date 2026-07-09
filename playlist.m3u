@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Live Event",Test
+http://fastserver.online:8080/get.php?username=94155992&password=85679439&type=m3u&output=m3u8
+
 #EXTINF:-1 group-title="Editor's Choice",Alita: Battle Angel
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Alita.Battle.Angel.2019.1080p.UHD.BluRay.x264.DD5.1-Pahe.in.mkv.mkv
 #EXTINF:-1 group-title="Editor's Choice",Avatar
