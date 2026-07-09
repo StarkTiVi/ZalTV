@@ -2,7 +2,14 @@
 
 #EXTINF:-1 group-title="Live Event",Test
 https://4kmax.vip:8080/get.php?username=EKsJRxtzyK&password=zXwtGgjhya&type=m3u_plus&output=m3u8
-
+#EXTINF:-1 group-title="TV Channel",CNN Indonesia
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__dXlXanQAKBybY830br6ylk
+#EXTINF:-1 group-title="TV Channel",CNBC Indonesia
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__SgGdRz5be8Pf7Q9Mqw3jqI
+#EXTINF:-1 group-title="TV Channel",
+#EXTINF:-1 group-title="TV Channel",
+#EXTINF:-1 group-title="TV Channel",
+#EXTINF:-1 group-title="TV Channel",
 #EXTINF:-1 group-title="Editor's Choice",Alita: Battle Angel
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Alita.Battle.Angel.2019.1080p.UHD.BluRay.x264.DD5.1-Pahe.in.mkv.mkv
 #EXTINF:-1 group-title="Editor's Choice",Avatar
