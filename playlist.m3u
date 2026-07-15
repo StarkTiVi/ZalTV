@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Live Ch.01
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.01*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Channel.png" group-title="TV Sports",Live Ch.01
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fGNveaNBYKUWMsClOl66YU
 #EXTINF:-1 group-title="Sports",Live Ch.02
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__XYyHuZ6j9twR9JWpIYkiPQ
@@ -209,8 +209,6 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__SHsIoEnH8FX4jzN-4GcTxw
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__X0-7UXwh7eqFNHMPg1DSnQ
 #EXTINF:-1 group-title="Premium",KBS World
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RUKDBzVpi12ss8AkrlgPok
-#EXTINF:-1 group-title="Premium",Mentari TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ZkGNbJiuPbX_0m2w6-YXek
 #EXTINF:-1 group-title="Premium",
 #EXTINF:-1 group-title="Premium",
 #EXTINF:-1 group-title="Premium",
@@ -226,6 +224,8 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__crX86f5e-_xQpOrS7K8VME
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fJBKoj1uoOHCKBXiUyYDLc
 #EXTINF:-1 group-title="Television",Indosiar
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__XLonmT6SDMAbqoNy8ttjec
+#EXTINF:-1 group-title="Television",Mentari TV
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ZkGNbJiuPbX_0m2w6-YXek
 #EXTINF:-1 group-title="Television",Metro TV
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__VdVS7buCceiqNPfV5hFC9A
 #EXTINF:-1 group-title="Television",Moji TV
