@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.01*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Sports%20Channel.png" group-title="TV Sports",Live Ch.01
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.01*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/TV%20Sports.JPG" group-title="TV Sports",Live Ch.01
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fGNveaNBYKUWMsClOl66YU
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.02*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Sports%20Channel.png" group-title="TV Sports",Live Ch.02
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.02*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/TV%20Sports.JPG" group-title="TV Sports",Live Ch.02
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__XYyHuZ6j9twR9JWpIYkiPQ
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.03*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Sports%20Channel.png" group-title="TV Sports",Live Ch.03
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.03*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/TV%20Sports.JPG" group-title="TV Sports",Live Ch.03
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__QNUZYGyy7hJ3NCmesxEwk0
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live Ch.04*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Sports%20Channel.png" group-title="TV Sports",Live Ch.04
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__W20J6fLrmslmw4ve4PVrro
