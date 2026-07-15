@@ -212,17 +212,17 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RUKDBzVpi12ss8AkrlgPok
 #EXTINF:-1 group-title="Premium",
 #EXTINF:-1 group-title="Premium",
 #EXTINF:-1 group-title="Premium",
-#EXTINF:-1 group-title="Television",ANTV
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="antv*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/antv.PNG" group-title="Television",antv
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__bfWtS1xVVzqpgaeJ69UrsY
-#EXTINF:-1 group-title="Television",Berita Satu
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Berita Satu*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/BeritaSatu-Logo-2025.png" group-title="Television",Berita Satu
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RmVUHU45ZRe6Wy3lMjHyLA
-#EXTINF:-1 group-title="Television",CNN Indonesia
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="CNN Indonesia*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/CNN%20Indonesia.png" group-title="Television",CNN Indonesia
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__dXlXanQAKBybY830br6ylk
-#EXTINF:-1 group-title="Television",GTV
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="GTV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/gtv.webp" group-title="Television",GTV
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__crX86f5e-_xQpOrS7K8VME
-#EXTINF:-1 group-title="Television",iNews TV
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="iNews TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/iNews.png" group-title="Television",iNews TV
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fJBKoj1uoOHCKBXiUyYDLc
-#EXTINF:-1 group-title="Television",Indosiar
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Indosiar*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/indosiar.png" group-title="Television",Indosiar
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__XLonmT6SDMAbqoNy8ttjec
 #EXTINF:-1 group-title="Television",Mentari TV
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ZkGNbJiuPbX_0m2w6-YXek
