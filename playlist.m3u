@@ -250,7 +250,7 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RdG8C3DRJQj6WXLA0SVAjU
 
 #EXTINF:-1 group-title="Television",
 
-#EXTINF:-1 group-title="Editor's Choice",Alita: Battle Angel
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Alita: Battle Angel*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/alita%20battle%20angel.jpg" group-title="Editor's Choice",Alita: Battle Angel
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Alita.Battle.Angel.2019.1080p.UHD.BluRay.x264.DD5.1-Pahe.in.mkv.mkv
 #EXTINF:-1 group-title="Editor's Choice",Avatar
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Avatar.2009.Extended.PROPER.1080p.UHD.BluRay.x264.DD%2B5.1-Pahe.in.mkv
@@ -800,3 +800,8 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Mancanegara/War.Machine.2026.10
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Mancanegara/Wuthering.Heights.2026.1080p.BluRay.x264.DD%2B5.1-Pahe.in.mkv
 #EXTINF:-1 group-title="Mancanegara",Your Fault London
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Mancanegara/Your.Fault.London.2026.1080p.WEB-DL.x264.6CH-Pahe.in.mkv
+
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Avatar: The Last Airbender (2024) S01E01*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/avatar%20airbender.jpg" group-title="Series",Avatar: The Last Airbender (2024) S01E01
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/TV%20Show/Avatar/Season%201/Avatar.The.Last.Airbender.S01E01.2024.1080p.WEB-DL.x264.6CH-Pahe.in.mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Avatar: The Last Airbender (2024) S01E02*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/avatar%20airbender.jpg" group-title="Series",Avatar: The Last Airbender (2024) S01E02
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/TV%20Show/Avatar/Season%201/Avatar.The.Last.Airbender.S01E02.2024.1080p.WEB-DL.x264.6CH-Pahe.in.mkv
