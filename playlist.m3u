@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 type="stream" tvg-type="live" group-title="Indonesian TV", RCTI HD
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__VAnRLbnhCFDO0bTptyE_Cc
-
-#EXTINF:-1 type="movie" tvg-type="movie" xui-id="17200" tvg-id="" tvg-name="Minions & Monsters (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Minions%20%26%20Monsters%20(2026).webp" group-title="Family",Minions & Monsters (2026)
-https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Family/Minions.and.Monsters.2026.1080p.WEB-DL.x265.6CH-Pahe.in%20(1).mkv
-
-
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="antv*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="Television",antv
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__bfWtS1xVVzqpgaeJ69UrsY
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Berita Satu*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="Television",Berita Satu
