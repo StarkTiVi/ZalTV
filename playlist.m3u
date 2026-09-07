@@ -55,12 +55,24 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__WJIIIRiE6MDefv7djBVCAs
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Bioskop Indonesia*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="Television",Bioskop Indonesia
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Y0xaUnOkjt6L87JXgfxR_8
 
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="BEIN Sports 1*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",BEIN Sports 1
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="IDN:BEIN Sports 1*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",IDN:BEIN Sports 1
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ZOYWXC6WG6ObOXaTn7AGUk
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="BEIN Sports 2*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",BEIN Sports 2
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="IDN:BEIN Sports 2*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",IDN:BEIN Sports 2
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fuc7wv-09OQKLW7Cmacahg
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="BEIN Sports 3*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",BEIN Sports 3
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="IDN:BEIN Sports 3*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",IDN:BEIN Sports 3
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ZpcVIYJSkF8PsIqSxfdhYE
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="ENG:BEIN Sports 1*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",ENG:BEIN Sports 1
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__UFt0eybGbRMf56kwUUlb14
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="ENG:BEIN Sports 2*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",ENG:BEIN Sports 2
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__WiC3_VcT81d-3qf3CyPM5o
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="ENG:BEIN Sports 3*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",ENG:BEIN Sports 3
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Xus_KwSKxw4lB9QUdyoPWo
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="MY:BEIN Sports 1*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",MY:BEIN Sports 1
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__WQbRVXvTgLDm01OSi2iaEA
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="MY:BEIN Sports 2*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",MY:BEIN Sports 2
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__W03Tp0oQfrUJ8nZgPwEiP0
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="MY:BEIN Sports 3*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",MY:BEIN Sports 3
+https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Ux8_wFVE0xJtLV6MW-sPMg
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="DAZN 1*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",DAZN 1
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__bWXHhwvM5VJEug1zF_TmXI
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="DAZN 2*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="Sports Channel",DAZN 2
