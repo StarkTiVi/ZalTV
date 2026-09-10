@@ -919,8 +919,6 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Enola.Holme
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Enola.Holmes.2.2022.1080p.NF.WEB-x264.6CH-Pahe.in.mkv
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Greenland (2020)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Greenland%20(2020).webp" group-title="Editor's Choice",Greenland (2020)
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Greenland%20(2020)%20-%20Pahe.in.mkv
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="The Fast and The Furius Tokyo Drift (2006)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%20(2006).webp" group-title="Editor's Choice",The Fast and The Furius Tokyo Drift (2006)
-https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/The.Fast.and.the.Furious.Tokyo.Drift.2006.1080p.BluRay.x264.DD%2B7.1-Pahe.in.mkv
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Inglourious Basterds (2009)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Inglourious%20Basterds%20(2009).webp" group-title="Editor's Choice",Inglourious Basterds (2009)
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Editor%27s%20Choice/Inglourious%20Basterds%20(2009)%20-%20Pahe.in.mkv
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Interstellar (2014)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Interstellar%20(2014).webp" group-title="Editor's Choice",Interstellar (2014)
@@ -1373,6 +1371,31 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Archive/Bayi%20Gaib%20(2018)%20
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Archive", ----
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Warkop DKI: Atas Boleh Bawah Boleh (1986)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Warkop%20DKI%20Atas%20Boleh%20Bawah%20Boleh%20(1986).webp" group-title="Archive",Warkop DKI: Atas Boleh Bawah Boleh (1986)
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Archive/Atas%20Boleh%20Bawah%20Boleh%20(1986)%20720p%20WEB-DL.mp4
+
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="The Fast and the Furious (2001)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/The%20Fast%20and%20the%20Furious%20(2001).webp" group-title="Fast & Furious",The Fast and the Furious (2001)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/The%20Fast%20and%20the%20Furious%20(2001).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="2 Fast 2 Furious (2003)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/2%20Fast%202%20Furious%20(2003).webp" group-title="Fast & Furious",2 Fast 2 Furious (2003)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/2%20Fast%202%20Furious%20(2003).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="The Fast and the Furious: Tokyo Drift (2006)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%20(2006).webp" group-title="Fast & Furious",The Fast and the Furious: Tokyo Drift (2006)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/The.Fast.and.the.Furious.Tokyo.Drift.2006.1080p.BluRay.x264.DD%2B7.1-Pahe.in.mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Fast & Furious (2009)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Fast%20%26%20Furious%20(2009).webp" group-title="Fast & Furious",Fast & Furious (2009)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Fast%20%26%20Furious%20(2009).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Fast Five (2011)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Fast%20Five%20(2011).webp" group-title="Fast & Furious",Fast Five (2011)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Fast%20Five%20(2011)%20Extended%20Cut%20-%20Pahe.in.mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Fast & Furious 6 (2013)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Fast%20%26%20Furious%206%20(2013).webp" group-title="Fast & Furious",Fast & Furious 6 (2013)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Fast%20%26%20Furious%206%20(Extended%20Edition)%20(2013).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Furious 7 (2015)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Furious%207%20(2015).webp" group-title="Fast & Furious",Furious 7 (2015)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Furious%20Seven%202015%20Extended%201080p%20BluRay%20x265%20DD%2B5.1-Pahe.in%20(1).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="The Fate of the Furious (2017)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/The%20Fate%20of%20the%20Furious%20(2017).webp" group-title="Fast & Furious",The Fate of the Furious (2017)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/THE%20FATE%20OF%20THE%20FURIOUS.mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Fast & Furious Presents: Hobbs & Shaw (2019)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Fast%20%26%20Furious%20Presents%20Hobbs%20%26%20Shaw%20(2019).webp" group-title="Fast & Furious",Fast & Furious Presents: Hobbs & Shaw (2019)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Fast%20and%20Furious%20Presents-%20Hobbs%20and%20Shaw%20(2019)%20HDR10%2B%20-%20Pahe.in.mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="F9 (2021)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/F9%20(2021).webp" group-title="Fast & Furious",F9 (2021)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/F9.2021.Theatrical.1080p.BluRay.x265.DD%2B5.1-Pahe.in%20(1).mkv
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Fast X (2023)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Fast%20X%20(2023).webp" group-title="Fast & Furious",Fast X (2023)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Collections/Fast%20%26%20Furious/Fast%20X%20(2023).mkv
+
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Fast & Furious", ----
 
 
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Iron Man (2008)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Iron%20Man%20(2008).webp" group-title="Marvel Cinematic Universe",Iron Man (2008)
