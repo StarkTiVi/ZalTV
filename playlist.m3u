@@ -1,45 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Live & Highlights*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="TV Channel",Live & Highlights
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Vidio*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/sportstv.png" group-title="TV Channel",Vidio
 http://147.189.169.76/live/around1234.m3u8
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="antv*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",antv
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__bfWtS1xVVzqpgaeJ69UrsY
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Berita Satu*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Berita Satu
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RmVUHU45ZRe6Wy3lMjHyLA
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="CNN Indonesia*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",CNN Indonesia
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__dXlXanQAKBybY830br6ylk
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="GTV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",GTV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__crX86f5e-_xQpOrS7K8VME
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="iNews TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",iNews TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fJBKoj1uoOHCKBXiUyYDLc
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Indosiar*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Indosiar
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__XLonmT6SDMAbqoNy8ttjec
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Metro TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Metro TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__VdVS7buCceiqNPfV5hFC9A
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Moji TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Moji TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Ys1pdfRLYc-MxUrkGbOEAg
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="MNC TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",MNC TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__UxEHSGsit0HUVJT2RP7WcE
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="RCTI*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",RCTI
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__VAnRLbnhCFDO0bTptyE_Cc
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="SCTV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",SCTV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__SfonLTkgmibvwmNqP0JtWg
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Trans 7*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Trans 7
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__UkLne-cYdTEOihDGdk8ddI
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Trans TV*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Trans TV
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RyYEAkfUN-7xOz1o4Abpk4
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="TV One*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",TV One
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__ccrpLS97rMyh1S7OJaL7EY
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="TVRI*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",TVRI
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Vq2CM0K6ZggHY4GO5a4yZE
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="TVRI World*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",TVRI World
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__RdG8C3DRJQj6WXLA0SVAjU
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Cartoon Network*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Cartoon Network
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fps7ci_-FYLDrBe4j3uSKM
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Cinemax*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Cinemax
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__UPXZuSjMnmI4aCMmAtpiUQ
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Discovery Channel*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Discovery Channel
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__WPF0auwJkq17BVr4W2jhhc
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="HBO*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",HBO
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__QI0bazkfjGJRTmIVmvMOGk
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="HBO Signature*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",HBO Signature
@@ -48,19 +12,6 @@ https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__W9zmLOjhI6LUHbOgqg1gZ0
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__bDUiF3yIm2jtk8pf6al4XM
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="HBO Hits*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",HBO Hits
 https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__VqGMp2VV8Nua1v4iYwxK9c
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Nick Jr*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Nick Jr
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__fKDYFjiO--hKsPEqzb3Gcc
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Nickelodeon*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Nickelodeon
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Uc8rAsTXgpmJqwzWh2JiTc
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Spacetoon*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Spacetoon
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__WJIIIRiE6MDefv7djBVCAs
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Bioskop Indonesia*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="TV Channel",Bioskop Indonesia
-https://xcpro.biz.id:443/play/MH-SfDf-4Gt-9iTKSD4__Y0xaUnOkjt6L87JXgfxR_8
-
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Music 01*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Default.png" group-title="Music",Music 01
-https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Family/vs.Acme.2026.1080p.WEB-DL.x265.6CH-Pahe.in%20(1).mkv
-
-
 
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" --- *" tvg-logo=" --- " group-title="Family", ---
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" --- *" tvg-logo=" --- " group-title="Family", ---
@@ -273,14 +224,22 @@ https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Family/Zootopia.2016.1080p.BluR
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
-#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name=" ---- *" tvg-logo=" ---- " group-title="Indonesia", ----
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Monster Pabrik Rambut (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Monster%20Pabrik%20Rambut%20(2026).webp" group-title="Indonesia",Monster Pabrik Rambut (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Monster%20Pabrik%20Rambut%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Bayang-Bayang Anak Jahanam (2025)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Bayang-Bayang%20Anak%20Jahanam%20(2025).webp" group-title="Indonesia",Bayang-Bayang Anak Jahanam (2025)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Bayang-Bayang%20Anak%20Jahanam%20(2025).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Khadam (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Khadam%20(2026).webp" group-title="Indonesia",Khadam (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Khadam%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Ain (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Ain%20(2026).webp" group-title="Indonesia",Ain (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Ain%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Kuyank (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Kuyank%20(2026).webp" group-title="Indonesia",Kuyank (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Kuyank%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Cerita Lila (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Cerita%20Lila%20(2026).webp" group-title="Indonesia",Cerita Lila (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Cerita%20Lila%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Badut Gendong (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Badut%20Gendong%20(2026).webp" group-title="Indonesia",Badut Gendong (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Badut%20Gendong%20(2026).mp4
+#EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Crowyokan (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Crowyokan%20(2026).webp" group-title="Indonesia",Crowyokan (2026)
+https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Crowyokan%20(2026).mp4
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Adili Idola Celebrity Roast: Reza Oktovian (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Adili%20Idola%20Celebrity%20Roast%20Reza%20Oktovian%20(2026).webp" group-title="Indonesia",Adili Idola Celebrity Roast: Reza Oktovian (2026)
 https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/Movie/Indonesia/Adili%20Idola%20Reza%20Arap%20(2026).mp4
 #EXTINF:-1 xui-id="17200" tvg-id="" tvg-name="Skenario Sang Jenderal (2026)*" tvg-logo="https://filedn.com/lAueqeBV9khkQ2rhOzM6bJk/iconTV/Skenario%20Sang%20Jenderal%20(2026).webp" group-title="Indonesia",Skenario Sang Jenderal (2026)
